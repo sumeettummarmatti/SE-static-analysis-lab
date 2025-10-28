@@ -1,0 +1,7 @@
+fixed_inventory_system.py:14:80: E501 line too long (91 > 79 characters)
+fixed_inventory_system.py:32:80: E501 line too long (86 > 79 characters)
+fixed_inventory_system.py:61:1: W293 blank line contains whitespace
+fixed_inventory_system.py:65:80: E501 line too long (82 > 79 characters)
+fixed_inventory_system.py:99:80: E501 line too long (92 > 79 characters)
+fixed_inventory_system.py:102:80: E501 line too long (92 > 79 characters)
+fixed_inventory_system.py:187:11: W292 no newline at end of file

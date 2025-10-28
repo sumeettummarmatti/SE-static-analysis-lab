@@ -1,0 +1,7 @@
+************* Module fixed_inventory_system
+fixed_inventory_system.py:61:0: C0303: Trailing whitespace (trailing-whitespace)
+fixed_inventory_system.py:187:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 9.75/10 (previous run: 9.75/10, +0.00)
+
